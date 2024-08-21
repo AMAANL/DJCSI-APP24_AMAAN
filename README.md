@@ -1,16 +1,9 @@
-# test_one
+# My first flutter app
 
-A new Flutter project.
+![WhatsApp Image 2024-08-22 at 03 22 42_e95593b4](https://github.com/user-attachments/assets/4ca16b86-db2c-46f7-bf78-a75715d9dfd7)
 
-## Getting Started
+![WhatsApp Image 2024-08-22 at 03 22 42_9b609fd4](https://github.com/user-attachments/assets/63d3fbd9-9c27-450b-9e2d-0d3ae2080c4f)
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2024-08-22 at 03 22 42_6104ab01](https://github.com/user-attachments/assets/587d3c41-c98b-4eb4-84af-26416d3f425d)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2024-08-22 at 03 22 43_aa646e56](https://github.com/user-attachments/assets/e25fefcb-12d0-46c7-8c83-4dd65f5ab6c5)
